@@ -1,7 +1,6 @@
 ## For Run:
 ```bash
   poetry shell
-  poetry install
   poetry update
 
   uvicorn app.main:app --reload
